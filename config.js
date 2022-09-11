@@ -3,7 +3,7 @@
 const basic = { // 基础设置
     favicon: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👻</text></svg>', // 页面图标
     title: '(～￣▽￣)～', // 页面标题
-    avatar: 'https://gravatar.zeruns.tech/avatar/', // 头像 URL
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1744793737&s=640', // 头像 URL
     name: '这里是小邓QwQ', // 头像下的昵称
     sign: '经费不足，给点钱QwQ ( •̀ ω •́ )✧', // 个性签名或提示文字，可使用 HTML 格式
     user_page: 'https://thisisxd.top', // 点击头像或名字时跳转的链接，留空或删除则不跳转
