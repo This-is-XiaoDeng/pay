@@ -27,7 +27,7 @@ const urls = [
     {
         name: '微信',
         ua: 'MicroMessenger\/',
-        addr: 'wxp://f2f0roSJotR_Zd6bknSVaeUN49T-utpBcl56Jm7AC2YkgpU'
+      addr: 'wxp://f2f0kFc3I1gDqf7Yd7ePEbUyRFTq6ar7-Uz6JPZE3FSxdes'
     },
     {
         name: 'QQ', 
